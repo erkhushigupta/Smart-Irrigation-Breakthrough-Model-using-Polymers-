@@ -1,14 +1,19 @@
 # Smart-Irrigation-Breakthrough-Model-using-Polymers-
+
 Built an interdisciplinary approach to Smart Irrigation to explore the potential for integrating smart irrigation systems with other agricultural technologies like precision agriculture, remote sensing, and greenhouse automation; address technical, economic, and social challenges associated with the implementation of smart irrigation systems
  
-•Irrigation is the supply of water to crops by artificial means.
-Smart irrigation
-• Smart irrigation systems tailor watering schedules and run times automatically to meet
+Irrigation is the supply of water to crops by artificial means.
+Smart irrigation:
+
+Smart irrigation systems tailor watering schedules and run times automatically to meet
 specific landscape needs.
+
 Impact of Smart irrigation
-•Smart irrigation can save irrigation water and improve yield at the farm level, consequently
+
+Smart irrigation can save irrigation water and improve yield at the farm level, consequently
 leading to improved food security for the global population.
-•It is an advanced technology that contributes to water conservation, energy savings, soil
+
+It is an advanced technology that contributes to water conservation, energy savings, soil
 stability, and cleaner water resources for wildlife.
 
 ![image](https://github.com/erkhushigupta/Smart-Irrigation-Breakthrough-Model-using-Polymers-/assets/139675402/563e690e-1bcd-4c4b-a733-2670244aaeab)
